@@ -1,0 +1,1 @@
+# Strip_Sensor_Effect
