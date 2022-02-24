@@ -30,7 +30,7 @@ Ref: https://www.ohdsi.org/wp-content/uploads/2018/10/OHDSI-Estimation-tutorial-
 
 ---
 
-
+![ATLAS Image 2](https://user-images.githubusercontent.com/100256821/155475613-7e3954a5-cbb7-4254-9718-04931ab5ad92.PNG)
 
 ### Funding
 
