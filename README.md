@@ -4,15 +4,15 @@
 
 Evaluate the effect (diabetes control rate and complications) according to the use of consumable materials and continuous blood glucose meter for diabetic patients
 
-### Tools
+### Software
 
 ---
 
-`-` CDM v5.3
+`-` CDM: version 5.3
 
-`-` ATLAS v2.7.3
+`-` ATLAS: version 2.7.3
 
-`-` R v4.0.3
+`-` R: version 4.0.3
 
 ### Methods
 
@@ -22,9 +22,7 @@ Evaluate the effect (diabetes control rate and complications) according to the u
 
 `-` Running package from Rstudio
 
-`-` Export shiny result 
-
-Ref: https://www.ohdsi.org/wp-content/uploads/2018/10/OHDSI-Estimation-tutorial-CohortMethod-and-review-of-R-code.pdf (40p~)
+`-` Export shiny result (URL:https://www.ohdsi.org/wp-content/uploads/2018/10/OHDSI-Estimation-tutorial-CohortMethod-and-review-of-R-code.pdf (40p~))
 
 ### Figure Abstract
 
